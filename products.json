@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Wood House",
+        "image": "sekce_kubis.jpg",
+        "description": "Best house for your life",
+        "price": 9999999.99
     }
 ]
